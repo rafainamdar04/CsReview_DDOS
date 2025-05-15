@@ -5,5 +5,3 @@ This review paper provides a structured and in-depth survey of Distributed Denia
 
 Authors:
 Rafa Khaleel Inamdar, Sanjna Deva
-Guided by: Prof. Abhishek Vichare
-MPSTME, NMIMS Mumbai
